@@ -6,7 +6,6 @@ This project explores the **Netflix Titles Dataset** using **Neo4j**, a graph da
 - `netflix_titles.csv` - Raw dataset used
 - `graph_modeling.cypher` - Cypher queries for creating nodes and relationships
 - `ScalableDatabaseFinalProject.pdf` - Project overview and results
-- `SelfAssessmentFinalProject.pdf` - Task checklist
 - `README.md` - Project documentation
 
 ## 🧠 Problem Statement
